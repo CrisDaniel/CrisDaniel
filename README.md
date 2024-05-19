@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Next.js and C#**
 
-- 👨‍💻 All of my projects are available at [https://crisdaniel.github.io/ChallengeONE_PORTAFOLIO/https://crisdaniel.github.io/ChallengeONE_PORTAFOLIO/](https://crisdaniel.github.io/ChallengeONE_PORTAFOLIO/https://crisdaniel.github.io/ChallengeONE_PORTAFOLIO/)
+- 👨‍💻 All of my projects are available at [CrisDaniel](https://crisdaniel.github.io/ChallengeONE_PORTAFOLIO/https://crisdaniel.github.io/ChallengeONE_PORTAFOLIO/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-revoredo-meza-05616b250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-revoredo-meza-05616b250/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-revoredo-meza-05616b250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/daniel-revoredo-meza-05616b250/](https://www.linkedin.com/in/daniel-revoredo-meza-05616b250/)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
